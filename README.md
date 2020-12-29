@@ -1,0 +1,2 @@
+# gamesmax
+Kuota game script
